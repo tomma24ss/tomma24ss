@@ -1,18 +1,66 @@
-### Things I've worked with
+### Things I worked with:
 
-[![skills](https://skillicons.dev/icons?i=python,php,csharp,js,ts,java,go,rust,c,bash,powershell,html,css,sass&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,webpack,rollup,eslint&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nginx,graphql&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,pandas,numpy&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv,jupyter,anaconda&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=openai,gemini,docker,kubernetes,azure,aws,linux,git,github,gitlab,githubactions,terraform,ansible&perline=14)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=vscode,pycharm,docker,postman,figma,neovim,vim&perline=14)](https://skillicons.dev)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=openai" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gemini" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+</p>
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -21,59 +69,34 @@
 ![Mistral](https://img.shields.io/badge/Mistral-AI-FF7000?style=for-the-badge)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![PEFT](https://img.shields.io/badge/PEFT-LoRA-FF6F00?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-FF4B4B?style=for-the-badge)
-![bitsandbytes](https://img.shields.io/badge/bitsandbytes-Quantization-000000?style=for-the-badge)
-![Accelerate](https://img.shields.io/badge/Accelerate-HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF4B4B?style=for-the-badge)
+![bitsandbytes](https://img.shields.io/badge/bitsandbytes-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-Graph-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5D?style=for-the-badge&logo=grpc&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=protobuf&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-IoT-660066?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-059669?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Cursor SDK](https://img.shields.io/badge/Cursor_SDK-Agents-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Cursor SDK](https://img.shields.io/badge/Cursor_SDK-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Azure Front Door](https://img.shields.io/badge/Azure_Front_Door-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![APIM](https://img.shields.io/badge/Azure_APIM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Microsoft Speech](https://img.shields.io/badge/Azure_Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-OIDC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Joern](https://img.shields.io/badge/Joern-Code_Analysis-5C4EE5?style=for-the-badge)
-![Tree-sitter](https://img.shields.io/badge/Tree_sitter-Parsing-2D3748?style=for-the-badge)
-![STIX](https://img.shields.io/badge/STIX_2-Cyber_Threat-1A1A1A?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-Threat-005A9C?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide_Icons-FBBF24?style=for-the-badge)
-![TTS](https://img.shields.io/badge/Coqui_TTS-Speech-111827?style=for-the-badge)
-![Librosa](https://img.shields.io/badge/Librosa-Audio-6B46C1?style=for-the-badge)
-![Cython](https://img.shields.io/badge/Cython-Performance-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja2-Templates-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![SSE](https://img.shields.io/badge/Server_Sent_Events-Streaming-0F172A?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-Real_time-010101?style=for-the-badge)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MoE](https://img.shields.io/badge/Mixture_of_Experts-LLM-7C3AED?style=for-the-badge)
-![Safetensors](https://img.shields.io/badge/Safetensors-Models-111827?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-Inference-F55036?style=for-the-badge)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-Scraping-306998?style=for-the-badge&logo=python&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF-3776AB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Refit](https://img.shields.io/badge/Refit-.NET_HTTP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-PostgreSQL-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Smarty](https://img.shields.io/badge/Smarty-PHP_Templates-FFB900?style=for-the-badge&logo=php&logoColor=black)
+![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure Speech](https://img.shields.io/badge/Azure_Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Joern](https://img.shields.io/badge/Joern-5C4EE5?style=for-the-badge)
+![Tree-sitter](https://img.shields.io/badge/Tree_sitter-2D3748?style=for-the-badge)
+![STIX 2](https://img.shields.io/badge/STIX_2-1A1A1A?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-005A9C?style=for-the-badge)
+![Cython](https://img.shields.io/badge/Cython-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-111827?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![MoE](https://img.shields.io/badge/Mixture_of_Experts-7C3AED?style=for-the-badge)
+![Safetensors](https://img.shields.io/badge/Safetensors-111827?style=for-the-badge)
+![Smarty](https://img.shields.io/badge/Smarty-FFB900?style=for-the-badge&logo=php&logoColor=black)
